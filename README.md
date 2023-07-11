@@ -1,2 +1,5 @@
-# IntroPython
-Algoritmos y Ejemplos básicos en Python
+# Introducción a Python
+
+Proyecto que brinda algoritmos y ejemplos básicos en Python.
+
+
