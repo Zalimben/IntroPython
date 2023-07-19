@@ -12,3 +12,6 @@ class Gato(Animal):
 
     def hablar(self):
         print("Miau! Miau!")
+
+    def idioma(self):
+        return "Miau! Miau!"

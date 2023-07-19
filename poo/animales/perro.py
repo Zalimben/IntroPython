@@ -15,6 +15,9 @@ class Perro(Animal):
     def hablar(self):
         print("Guau! Guau!")
 
+    def idioma(self):
+        return "Guau! Guau!"
+
     def sentado(self):
         """Acción de sentarse"""
         print(self.name.title() + " está sentado.")
